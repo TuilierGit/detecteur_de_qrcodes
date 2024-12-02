@@ -1,0 +1,10 @@
+# Perso
+old
+
+# Python
+__pycache__
+
+# Bibliothèque
+lib/*
+!lib/
+!lib/.gitkeep
